@@ -8,8 +8,8 @@ echo "=== Отправка проекта на GitHub ==="
 git remote set-url origin https://github.com/basmakoffcerk-svg/hp-laserjet-m102a-macos.git
 git branch -M main
 
-echo "Выполняю git push -u origin main..."
-git push -u origin main
+echo "Выполняю git push -u origin main --force..."
+git push -u origin main --force
 
 echo ""
 echo "=== Успешно отправлено в репозиторий: ==="
