@@ -40,7 +40,7 @@
 ### Вариант 2: Через терминал
 Клонируйте репозиторий и запустите установочный скрипт:
 ```bash
-git clone https://github.com/<ваш-аккаунт>/hp-laserjet-m102a-macos.git
+git clone https://github.com/basmakoffcerk-svg/hp-laserjet-m102a-macos.git
 cd hp-laserjet-m102a-macos
 ./install_driver.sh
 ```
